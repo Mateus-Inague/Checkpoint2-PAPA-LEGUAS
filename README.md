@@ -1,2 +1,2 @@
 # Checkpoint2-PAPA-LEGUAS
-Estudo de caso de uma empresa oferece entregas de encomendas utilizando drones
+Estudo de caso de uma empresa que oferece entregas de encomendas utilizando drones
